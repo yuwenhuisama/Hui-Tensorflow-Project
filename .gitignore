@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+0-Dataset/cifar-10-batches-bin/
+0-Dataset/cifar-10-binary.tar.gz
